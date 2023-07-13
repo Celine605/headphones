@@ -1,0 +1,197 @@
+/* main_part */
+
+position: absolute;
+width: 1400px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+
+
+/* background */
+
+position: absolute;
+width: 1400px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+width: 1400px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: #D8D8D8;
+border: 1px solid #979797;
+
+
+/* mask */
+
+position: absolute;
+width: 1400px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: #D8D8D8;
+border: 1px solid #979797;
+
+
+/* Object */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+
+
+/* Bitmap */
+
+position: absolute;
+width: 1400px;
+height: 933px;
+left: 0px;
+top: -133px;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+width: 1400px;
+height: 933px;
+left: 0px;
+top: -133px;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+width: 1400px;
+height: 933px;
+left: 0px;
+top: -133px;
+
+background: radial-gradient(100% 100% at 50% 0%, rgba(41, 48, 61, 0.0001) 0%, #071629 100%), #000000;
+background-blend-mode: normal, color;
+
+
+/* text */
+
+position: absolute;
+width: 637px;
+height: 313px;
+left: 382px;
+top: 372px;
+
+
+
+/* Lorem ipsum dolor se */
+
+position: absolute;
+height: 40px;
+left: 4.55%;
+right: 4.71%;
+top: calc(50% - 40px/2 - 136.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor se Copy */
+
+position: absolute;
+height: 20px;
+left: 22.14%;
+right: 22.14%;
+top: calc(50% - 20px/2 - 106.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 104px;
+left: 0%;
+right: 0%;
+top: calc(50% - 104px/2 + 104.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* button */
+
+position: absolute;
+left: 37.21%;
+right: 37.36%;
+top: 31.95%;
+bottom: 53.99%;
+
+filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+
+
+/* button_background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF6565;
+border-radius: 22px;
+
+
+/* CALL TO ACTION */
+
+position: absolute;
+height: 18px;
+left: 19.14%;
+right: 19.14%;
+top: calc(50% - 18px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
